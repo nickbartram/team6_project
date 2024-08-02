@@ -7,3 +7,6 @@ Today we want to work on:
     - investigating and reviewing data
     - determining what to clean
     - creating tasks for team members
+
+Sources:
+    - https://www.kaggle.com/code/pranjal666/airbnb-open-data-eda
