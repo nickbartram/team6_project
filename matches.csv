@@ -4,1118 +4,1342 @@ Kensington,Washington Heights,67
 Kensington,West Brighton,61
 Kensington,Neponsit,56
 Kensington,New Brighton,55
+Kensington,Stuyvesant Town,54
 Midtown,Midtown,100
 Midtown,Richmondtown,75
 Midtown,Fort Hamilton,69
 Midtown,Downtown Brooklyn,65
 Midtown,Stuyvesant Town,65
+Midtown,Chinatown,62
 Harlem,Harlem,100
 Harlem,East Harlem,90
 Harlem,Marble Hill,62
 Harlem,North Riverdale,60
 Harlem,Bronxdale,60
+Harlem,Riverdale,60
 Clinton Hill,Clinton Hill,100
 Clinton Hill,Clifton,77
 Clinton Hill,Lighthouse Hill,67
 Clinton Hill,Todt Hill,67
 Clinton Hill,Richmond Hill,64
+Clinton Hill,Cobble Hill,61
 East Harlem,East Harlem,100
 East Harlem,Harlem,90
 East Harlem,West Farms,67
 East Harlem,East Village,61
 East Harlem,East Elmhurst,58
+East Harlem,Maspeth,55
 Murray Hill,Murray Hill,100
 Murray Hill,Marble Hill,64
 Murray Hill,Grymes Hill,64
 Murray Hill,Emerson Hill,61
 Murray Hill,Todt Hill,58
+Murray Hill,Jamaica Hills,58
 Bedford-Stuyvesant,Bedford-Stuyvesant,100
 Bedford-Stuyvesant,Stuyvesant Town,76
 Bedford-Stuyvesant,St. George,57
 Bedford-Stuyvesant,Van Nest,53
 Bedford-Stuyvesant,Bensonhurst,51
+Bedford-Stuyvesant,Fordham,51
 Hell's Kitchen,Hell's Kitchen,100
 Hell's Kitchen,Hollis,60
 Hell's Kitchen,Richmond Hill,56
 Hell's Kitchen,Bull's Head,56
 Hell's Kitchen,Chelsea,55
+Hell's Kitchen,Glen Oaks,53
 Upper West Side,Upper West Side,100
 Upper West Side,Upper East Side,93
 Upper West Side,West Farms,86
 Upper West Side,Lower East Side,73
 Upper West Side,Bayside,65
+Upper West Side,Woodside,60
 Chinatown,Chinatown,100
 Chinatown,Richmondtown,67
 Chinatown,Washington Heights,64
 Chinatown,Midtown,62
 Chinatown,Clifton,62
+Chinatown,Downtown Brooklyn,61
 South Slope,South Slope,100
 South Slope,Mount Hope,67
 South Slope,South Beach,64
 South Slope,Park Slope,63
 South Slope,SoHo,60
+South Slope,South Ozone Park,59
 Williamsburg,Williamsburg,100
 Williamsburg,Williamsbridge,85
 Williamsburg,Hollis,60
 Williamsburg,Willowbrook,52
 Williamsburg,West Village,50
+Williamsburg,Murray Hill,50
 Park Slope,Park Slope,100
 Park Slope,Battery Park City,86
 Park Slope,South Ozone Park,86
 Park Slope,Ozone Park,66
 Park Slope,Sunset Park,63
+Park Slope,South Slope,63
 Windsor Terrace,Windsor Terrace,100
 Windsor Terrace,"Bay Terrace, Staten Island",86
 Windsor Terrace,Bay Terrace,74
 Windsor Terrace,New Dorp Beach,55
 Windsor Terrace,Inwood,54
+Windsor Terrace,Shore Acres,54
 Bushwick,Bushwick,100
 Bushwick,East Flatbush,60
 Bushwick,Flatbush,50
 Bushwick,Flushing,50
 Bushwick,SoHo,45
+Bushwick,Lighthouse Hill,45
 Flatbush,Flatbush,100
 Flatbush,East Flatbush,90
 Flatbush,Flushing,62
 Flatbush,Flatiron District,60
 Flatbush,SoHo,60
+Flatbush,Flatlands,59
 Lower East Side,Lower East Side,100
 Lower East Side,Upper East Side,80
 Lower East Side,Upper West Side,73
 Lower East Side,Bayside,65
 Lower East Side,Woodside,60
+Lower East Side,East Morrisania,57
 East Village,East Village,100
 East Village,West Village,92
 East Village,Queens Village,77
 East Village,Greenwich Village,70
 East Village,Concourse Village,70
+East Village,Middle Village,70
 Fort Greene,Fort Greene,100
 Fort Greene,Arverne,60
 Fort Greene,Prospect-Lefferts Gardens,57
 Fort Greene,Mount Eden,57
 Fort Greene,Greenwich Village,56
+Fort Greene,Fordham,54
 Gowanus,Gowanus,100
 Gowanus,Brownsville,55
 Gowanus,Howland Hook,55
 Gowanus,Washington Heights,54
 Gowanus,Stuyvesant Town,54
+Gowanus,Fresh Meadows,54
 Greenpoint,Greenpoint,100
 Greenpoint,Breezy Point,73
 Greenpoint,Greenwich Village,64
 Greenpoint,College Point,61
 Greenpoint,Nolita,60
+Greenpoint,Tremont,59
 West Village,West Village,100
 West Village,East Village,92
 West Village,Queens Village,77
 West Village,Greenwich Village,70
 West Village,Concourse Village,70
+West Village,Middle Village,70
 Flatlands,Flatlands,100
 Flatlands,Roosevelt Island,60
 Flatlands,Flatbush,59
 Flatlands,Flatiron District,55
 Flatlands,"Bay Terrace, Staten Island",55
+Flatlands,"Chelsea, Staten Island",55
 Prospect Heights,Prospect Heights,100
 Prospect Heights,Prospect-Lefferts Gardens,86
 Prospect Heights,Crown Heights,69
 Prospect Heights,Arden Heights,69
 Prospect Heights,Morris Heights,67
+Prospect Heights,Dyker Heights,66
 DUMBO,DUMBO,100
 DUMBO,Columbia St,54
 DUMBO,Morningside Heights,51
 DUMBO,Boerum Hill,51
 DUMBO,Mott Haven,51
+DUMBO,Morris Heights,51
 Upper East Side,Upper East Side,100
 Upper East Side,Upper West Side,93
 Upper East Side,Lower East Side,80
 Upper East Side,Bayside,65
 Upper East Side,Woodside,60
+Upper East Side,Sunnyside,56
 Carroll Gardens,Carroll Gardens,100
 Carroll Gardens,Prospect-Lefferts Gardens,86
 Carroll Gardens,Kew Gardens,74
 Carroll Gardens,Pelham Gardens,63
 Carroll Gardens,Kew Gardens Hills,60
+Carroll Gardens,Springfield Gardens,60
 St. George,St. George,100
 St. George,Bedford-Stuyvesant,57
 St. George,Upper West Side,53
 St. George,East New York,52
 St. George,East Morrisania,50
+St. George,East Harlem,48
 Highbridge,Highbridge,100
 Highbridge,Kingsbridge,76
 Highbridge,Bay Ridge,63
 Highbridge,Williamsbridge,58
 Highbridge,Two Bridges,57
+Highbridge,Ridgewood,53
 Financial District,Financial District,100
 Financial District,Flatiron District,69
 Financial District,Theater District,63
 Financial District,Tribeca,60
 Financial District,Astoria,55
+Financial District,Chinatown,51
 Ridgewood,Ridgewood,100
 Ridgewood,Midwood,75
 Ridgewood,Inwood,72
 Ridgewood,Briarwood,67
 Ridgewood,Two Bridges,66
+Ridgewood,Williamsbridge,64
 Morningside Heights,Morningside Heights,100
 Morningside Heights,Morris Heights,79
 Morningside Heights,Arden Heights,69
 Morningside Heights,Kingsbridge,67
 Morningside Heights,Crown Heights,66
+Morningside Heights,Dyker Heights,66
 Ditmars Steinway,Ditmars Steinway,100
 Ditmars Steinway,Astoria,51
 Ditmars Steinway,Maspeth,51
 Ditmars Steinway,Edenwald,51
 Ditmars Steinway,West Farms,51
+Ditmars Steinway,Little Italy,50
 Cobble Hill,Cobble Hill,100
 Cobble Hill,Marble Hill,73
 Cobble Hill,Castle Hill,73
 Cobble Hill,Boerum Hill,64
 Cobble Hill,Clinton Hill,61
+Cobble Hill,Forest Hills,61
 Flatiron District,Flatiron District,100
 Flatiron District,Theater District,73
 Flatiron District,Financial District,69
 Flatiron District,Flatbush,60
 Flatiron District,Tribeca,60
+Flatiron District,Tremont,57
 Roosevelt Island,Roosevelt Island,100
 Roosevelt Island,"Bay Terrace, Staten Island",86
 Roosevelt Island,City Island,67
 Roosevelt Island,Coney Island,64
 Roosevelt Island,Flatlands,60
+Roosevelt Island,Rosedale,60
 SoHo,SoHo,100
 SoHo,Shore Acres,77
 SoHo,NoHo,75
 SoHo,Bensonhurst,68
 SoHo,Holliswood,68
+SoHo,South Slope,60
 Greenwich Village,Greenwich Village,100
 Greenwich Village,Queens Village,71
 Greenwich Village,East Village,70
 Greenwich Village,West Village,70
 Greenwich Village,Claremont Village,65
+Greenwich Village,Gravesend,64
 Chelsea,Chelsea,100
 Chelsea,"Chelsea, Staten Island",90
 Chelsea,Parkchester,64
 Chelsea,Eastchester,64
 Chelsea,Westchester Square,64
+Chelsea,Baychester,59
 Little Italy,Little Italy,100
 Little Italy,Little Neck,67
 Little Italy,Nolita,60
 Little Italy,Clifton,54
 Little Italy,Castle Hill,52
+Little Italy,Lighthouse Hill,52
 Inwood,Inwood,100
 Inwood,Midwood,77
 Inwood,Norwood,77
 Inwood,Holliswood,75
 Inwood,Ridgewood,72
+Inwood,Briarwood,72
 Washington Heights,Washington Heights,100
 Washington Heights,Jackson Heights,73
 Washington Heights,Kensington,67
 Washington Heights,Crown Heights,66
 Washington Heights,Dyker Heights,66
+Washington Heights,Arden Heights,66
 Kingsbridge,Kingsbridge,100
 Kingsbridge,Highbridge,76
 Kingsbridge,Morningside Heights,67
 Kingsbridge,Williamsbridge,64
 Kingsbridge,Bay Ridge,60
+Kingsbridge,Bayside,55
 Astoria,Astoria,100
 Astoria,East Morrisania,64
 Astoria,Tribeca,57
 Astoria,Financial District,55
 Astoria,Flatiron District,55
+Astoria,Theater District,55
 Boerum Hill,Boerum Hill,100
 Boerum Hill,Cobble Hill,64
 Boerum Hill,Marble Hill,64
 Boerum Hill,Grymes Hill,64
 Boerum Hill,Emerson Hill,61
+Boerum Hill,Vinegar Hill,61
 Rockaway Beach,Rockaway Beach,100
 Rockaway Beach,Far Rockaway,76
 Rockaway Beach,Howard Beach,69
 Rockaway Beach,Bath Beach,63
 Rockaway Beach,South Beach,59
+Rockaway Beach,Brighton Beach,57
 Crown Heights,Crown Heights,100
 Crown Heights,Jackson Heights,79
 Crown Heights,Arden Heights,77
 Crown Heights,Brooklyn Heights,76
 Crown Heights,Cambria Heights,71
+Crown Heights,Dyker Heights,69
 Brooklyn Heights,Brooklyn Heights,100
 Brooklyn Heights,Crown Heights,76
 Brooklyn Heights,Arden Heights,69
 Brooklyn Heights,Dyker Heights,66
 Brooklyn Heights,Jackson Heights,65
+Brooklyn Heights,Cambria Heights,65
 Nolita,Nolita,100
 Nolita,Greenpoint,60
 Nolita,Little Italy,60
 Nolita,NoHo,60
 Nolita,East Morrisania,60
+Nolita,Morrisania,60
 Woodlawn,Woodlawn,100
 Woodlawn,Woodhaven,71
 Woodlawn,Woodrow,67
 Woodlawn,Inwood,57
 Woodlawn,Midwood,53
+Woodlawn,Norwood,53
 Sunnyside,Sunnyside,100
 Sunnyside,Bayside,62
 Sunnyside,Morningside Heights,60
 Sunnyside,Upper West Side,56
 Sunnyside,Lower East Side,56
+Sunnyside,Upper East Side,56
 Gramercy,Gramercy,100
 Gramercy,Grant City,56
 Gramercy,Edgemere,50
 Gramercy,Greenwich Village,49
 Gramercy,Graniteville,49
+Gramercy,Gerritsen Beach,49
 East New York,East New York,100
 East New York,New Dorp,86
 East New York,New Dorp Beach,63
 East New York,Van Nest,61
 East New York,South Ozone Park,55
+East New York,Upper East Side,54
 Prospect-Lefferts Gardens,Prospect-Lefferts Gardens,100
 Prospect-Lefferts Gardens,Prospect Heights,86
 Prospect-Lefferts Gardens,Carroll Gardens,86
 Prospect-Lefferts Gardens,Kew Gardens,86
 Prospect-Lefferts Gardens,Pelham Gardens,86
+Prospect-Lefferts Gardens,Fort Greene,57
 Concourse Village,Concourse Village,100
 Concourse Village,Concourse,90
 Concourse Village,Concord,77
 Concourse Village,East Village,70
 Concourse Village,West Village,70
+Concourse Village,Claremont Village,65
 Sheepshead Bay,Sheepshead Bay,100
 Sheepshead Bay,Kips Bay,86
 Sheepshead Bay,Bay Ridge,86
 Sheepshead Bay,"Bay Terrace, Staten Island",86
 Sheepshead Bay,Bayside,61
+Sheepshead Bay,SoHo,60
 Theater District,Theater District,100
 Theater District,Flatiron District,73
 Theater District,Financial District,63
 Theater District,Tribeca,60
 Theater District,Eastchester,56
+Theater District,Astoria,55
 Emerson Hill,Emerson Hill,100
 Emerson Hill,Grymes Hill,70
 Emerson Hill,Richmond Hill,64
 Emerson Hill,Murray Hill,61
 Emerson Hill,Boerum Hill,61
+Emerson Hill,Marble Hill,61
 Long Island City,Long Island City,100
 Long Island City,City Island,95
 Long Island City,Co-op City,86
 Long Island City,Grant City,86
 Long Island City,"Bay Terrace, Staten Island",86
+Long Island City,Coney Island,68
 Fort Hamilton,Fort Hamilton,100
 Fort Hamilton,Midtown,69
 Fort Hamilton,Clifton,65
 Fort Hamilton,Fordham,64
 Fort Hamilton,Forest Hills,64
+Fort Hamilton,Port Richmond,62
 Bensonhurst,Bensonhurst,100
 Bensonhurst,SoHo,68
 Bensonhurst,Elmhurst,63
 Bensonhurst,East Elmhurst,58
 Bensonhurst,Belmont,56
+Bensonhurst,Neponsit,53
 Sunset Park,Sunset Park,100
 Sunset Park,Battery Park City,86
 Sunset Park,Ozone Park,67
 Sunset Park,South Ozone Park,67
 Sunset Park,Park Slope,63
+Sunset Park,Rego Park,60
 Concourse,Concourse,100
 Concourse,Concourse Village,90
 Concourse,Concord,75
 Concourse,Corona,60
 Concourse,Castleton Corners,60
+Concourse,Canarsie,59
 Kips Bay,Kips Bay,100
 Kips Bay,Sheepshead Bay,86
 Kips Bay,Prince's Bay,86
 Kips Bay,"Bay Terrace, Staten Island",86
 Kips Bay,Bay Ridge,56
+Kips Bay,Pelham Bay,56
 Brighton Beach,Brighton Beach,100
 Brighton Beach,Bergen Beach,77
 Brighton Beach,New Brighton,76
 Brighton Beach,West Brighton,72
 Brighton Beach,Gerritsen Beach,69
+Brighton Beach,Bath Beach,67
 St. Albans,St. Albans,100
 St. Albans,Columbia St,57
 St. Albans,"Bay Terrace, Staten Island",57
 St. Albans,"Chelsea, Staten Island",57
 St. Albans,Flatlands,53
+St. Albans,Stapleton,53
 Arrochar,Arrochar,100
 Arrochar,Far Rockaway,68
 Arrochar,Carroll Gardens,55
 Arrochar,Rockaway Beach,55
 Arrochar,Mariners Harbor,55
+Arrochar,Belle Harbor,55
 East Flatbush,East Flatbush,100
 East Flatbush,Flatbush,90
 East Flatbush,East Elmhurst,62
 East Flatbush,West Farms,61
 East Flatbush,Bushwick,60
+East Flatbush,SoHo,60
 Cypress Hills,Cypress Hills,100
 Cypress Hills,Forest Hills,72
 Cypress Hills,Grymes Hill,67
 Cypress Hills,Hollis,65
 Cypress Hills,Kew Gardens Hills,60
+Cypress Hills,Cobble Hill,58
 Rego Park,Rego Park,100
 Rego Park,Battery Park City,86
 Rego Park,South Ozone Park,86
 Rego Park,Borough Park,67
 Rego Park,Ozone Park,63
+Rego Park,Sunset Park,60
 Wakefield,Wakefield,100
 Wakefield,Springfield Gardens,61
 Wakefield,Fieldston,56
 Wakefield,Silver Lake,48
 Wakefield,Edenwald,47
+Wakefield,Williamsbridge,45
 Woodside,Woodside,100
 Woodside,Upper West Side,60
 Woodside,Lower East Side,60
 Woodside,Upper East Side,60
 Woodside,Woodhaven,59
+Woodside,Inwood,57
 Clifton,Clifton,100
 Clifton,Clinton Hill,77
 Clifton,Fort Hamilton,65
 Clifton,Chinatown,62
 Clifton,Midtown,57
+Clifton,Clason Point,55
 Bay Ridge,Bay Ridge,100
 Bay Ridge,Sheepshead Bay,86
 Bay Ridge,"Bay Terrace, Staten Island",86
 Bay Ridge,Bayside,75
 Bay Ridge,Williamsbridge,72
+Bay Ridge,Prince's Bay,63
 Graniteville,Graniteville,100
 Graniteville,Greenwich Village,62
 Graniteville,Tottenville,61
 Graniteville,Brownsville,61
 Graniteville,Great Kills,61
+Graniteville,East Village,58
 Spuyten Duyvil,Spuyten Duyvil,100
 Spuyten Duyvil,Soundview,52
 Spuyten Duyvil,Schuylerville,52
 Spuyten Duyvil,Tremont,51
 Spuyten Duyvil,Queens Village,50
+Spuyten Duyvil,DUMBO,49
 Stapleton,Stapleton,100
 Stapleton,Allerton,71
 Stapleton,Castleton Corners,70
 Stapleton,"Chelsea, Staten Island",57
 Stapleton,Laurelton,56
+Stapleton,Fort Hamilton,55
 Briarwood,Briarwood,100
 Briarwood,Inwood,72
 Briarwood,Ridgewood,67
 Briarwood,Midwood,62
 Briarwood,Norwood,62
+Briarwood,Oakwood,62
 Ozone Park,Ozone Park,100
 Ozone Park,South Ozone Park,90
 Ozone Park,Battery Park City,86
 Ozone Park,Sunset Park,67
 Ozone Park,Park Slope,66
+Ozone Park,Borough Park,64
 Columbia St,Columbia St,100
 Columbia St,St. Albans,57
 Columbia St,DUMBO,54
 Columbia St,Cambria Heights,54
 Columbia St,Maspeth,51
+Columbia St,Financial District,49
 Vinegar Hill,Vinegar Hill,100
 Vinegar Hill,Dongan Hills,67
 Vinegar Hill,Kew Gardens Hills,62
 Vinegar Hill,Boerum Hill,61
 Vinegar Hill,Marble Hill,61
+Vinegar Hill,Grymes Hill,61
 Mott Haven,Mott Haven,100
 Mott Haven,Woodhaven,63
 Mott Haven,Mount Eden,60
 Mott Haven,Mount Hope,60
 Mott Haven,Huguenot,53
+Mott Haven,Fort Hamilton,52
 Jackson Heights,Jackson Heights,100
 Jackson Heights,Crown Heights,79
 Jackson Heights,Washington Heights,73
 Jackson Heights,Arden Heights,71
 Jackson Heights,Dyker Heights,66
+Jackson Heights,Brooklyn Heights,65
 Longwood,Longwood,100
 Longwood,Inwood,71
 Longwood,Norwood,67
 Longwood,Oakwood,67
 Longwood,Long Island City,60
+Longwood,Ridgewood,59
 Canarsie,Canarsie,100
 Canarsie,Concourse,59
 Canarsie,Claremont Village,55
 Canarsie,Bayside,53
 Canarsie,Cambria Heights,51
+Canarsie,Mariners Harbor,51
 Jamaica,Jamaica,100
 Jamaica,Jamaica Estates,90
 Jamaica,Jamaica Hills,90
 Jamaica,Jackson Heights,54
 Jamaica,Cambria Heights,51
+Jamaica,Mariners Harbor,49
 Battery Park City,Battery Park City,100
 Battery Park City,Park Slope,86
 Battery Park City,Sunset Park,86
 Battery Park City,Rego Park,86
 Battery Park City,Ozone Park,86
+Battery Park City,City Island,86
 Tribeca,Tribeca,100
 Tribeca,Financial District,60
 Tribeca,Flatiron District,60
 Tribeca,Theater District,60
 Tribeca,Astoria,57
+Tribeca,Richmond Hill,54
 Two Bridges,Two Bridges,100
 Two Bridges,Ridgewood,66
 Two Bridges,Bay Ridge,60
 Two Bridges,Highbridge,57
 Two Bridges,Williamsbridge,56
+Two Bridges,West Brighton,55
 Civic Center,Civic Center,100
 Civic Center,Tremont,47
 Civic Center,Belmont,47
 Civic Center,"Bay Terrace, Staten Island",47
 Civic Center,Claremont Village,46
+Civic Center,Baychester,45
 East Elmhurst,East Elmhurst,100
 East Elmhurst,Elmhurst,90
 East Elmhurst,East Flatbush,62
 East Elmhurst,East Harlem,58
 East Elmhurst,Bensonhurst,58
+East Elmhurst,Eastchester,58
 Allerton,Allerton,100
 Allerton,Stapleton,71
 Allerton,Castleton Corners,68
 Allerton,Fort Hamilton,60
 Allerton,Bellerose,59
+Allerton,Laurelton,59
 New Springville,New Springville,100
 New Springville,New Dorp,86
 New Springville,Olinville,74
 New Springville,Eltingville,69
 New Springville,Rossville,64
+New Springville,Tompkinsville,57
 Morris Heights,Morris Heights,100
 Morris Heights,Morningside Heights,79
 Morris Heights,Cambria Heights,76
 Morris Heights,Port Morris,67
 Morris Heights,Morris Park,67
+Morris Heights,Prospect Heights,67
 Flushing,Flushing,100
 Flushing,Flatbush,62
 Flushing,Washington Heights,60
 Flushing,East Flatbush,56
 Flushing,Springfield Gardens,51
+Flushing,Bushwick,50
 Arverne,Arverne,100
 Arverne,Riverdale,62
 Arverne,Fort Greene,60
 Arverne,Arden Heights,60
 Arverne,Carroll Gardens,55
+Arverne,Prospect-Lefferts Gardens,55
 Gravesend,Gravesend,100
 Gravesend,Greenwich Village,64
 Gravesend,Sea Gate,56
 Gravesend,Greenpoint,53
 Gravesend,Fort Greene,50
+Gravesend,Arverne,50
 Elmhurst,Elmhurst,100
 Elmhurst,East Elmhurst,90
 Elmhurst,Bensonhurst,63
 Elmhurst,Emerson Hill,55
 Elmhurst,Belmont,53
+Elmhurst,Melrose,53
 Cambria Heights,Cambria Heights,100
 Cambria Heights,Morris Heights,76
 Cambria Heights,Crown Heights,71
 Cambria Heights,Arden Heights,71
 Cambria Heights,Dyker Heights,66
+Cambria Heights,Morningside Heights,65
 Tottenville,Tottenville,100
 Tottenville,Olinville,70
 Tottenville,Tompkinsville,67
 Tottenville,Brownsville,64
 Tottenville,Eltingville,64
+Tottenville,Graniteville,61
 Tompkinsville,Tompkinsville,100
 Tompkinsville,Olinville,73
 Tompkinsville,Tottenville,67
 Tompkinsville,Brownsville,67
 Tompkinsville,Eltingville,67
+Tompkinsville,Rossville,64
 NoHo,NoHo,100
 NoHo,SoHo,75
 NoHo,Inwood,68
 NoHo,Nolita,60
 NoHo,North Riverdale,60
+NoHo,Norwood,60
 Mariners Harbor,Mariners Harbor,100
 Mariners Harbor,Belle Harbor,63
 Mariners Harbor,Harlem,57
 Mariners Harbor,Arrochar,55
 Mariners Harbor,Arverne,55
+Mariners Harbor,Morris Park,54
 Concord,Concord,100
 Concord,Concourse Village,77
 Concord,Concourse,75
 Concord,Castleton Corners,64
 Concord,Norwood,57
+Concord,Port Richmond,55
 Borough Park,Borough Park,100
 Borough Park,Rego Park,67
 Borough Park,Ozone Park,64
 Borough Park,South Ozone Park,61
 Borough Park,Morris Park,61
+Borough Park,Park Slope,54
 Bayside,Bayside,100
 Bayside,Bay Ridge,75
 Bayside,Upper West Side,65
 Bayside,Lower East Side,65
 Bayside,Upper East Side,65
+Bayside,Sunnyside,62
 Downtown Brooklyn,Downtown Brooklyn,100
 Downtown Brooklyn,Midtown,65
 Downtown Brooklyn,Brooklyn Heights,63
 Downtown Brooklyn,Chinatown,61
 Downtown Brooklyn,Willowbrook,57
+Downtown Brooklyn,Woodrow,54
 Port Morris,Port Morris,100
 Port Morris,Morris Park,78
 Port Morris,Morris Heights,67
 Port Morris,East Morrisania,62
 Port Morris,Port Richmond,58
+Port Morris,Morrisania,57
 Fieldston,Fieldston,100
 Fieldston,Whitestone,63
 Fieldston,Midtown,62
 Fieldston,Springfield Gardens,61
 Fieldston,Wakefield,56
+Fieldston,Laurelton,56
 Kew Gardens,Kew Gardens,100
 Kew Gardens,Kew Gardens Hills,90
 Kew Gardens,Prospect-Lefferts Gardens,86
 Kew Gardens,Springfield Gardens,86
 Kew Gardens,Carroll Gardens,74
+Kew Gardens,Pelham Gardens,74
 Midwood,Midwood,100
 Midwood,Inwood,77
 Midwood,Ridgewood,75
 Midwood,Middle Village,65
 Midwood,Briarwood,62
+Midwood,Holliswood,59
 College Point,College Point,100
 College Point,Clason Point,64
 College Point,Breezy Point,64
 College Point,Greenpoint,61
 College Point,Neponsit,60
+College Point,Hunts Point,59
 Mount Eden,Mount Eden,100
 Mount Eden,Mount Hope,70
 Mount Eden,Mott Haven,60
 Mount Eden,Fort Greene,57
 Mount Eden,Greenpoint,57
+Mount Eden,Tremont,56
 City Island,City Island,100
 City Island,Long Island City,95
 City Island,Battery Park City,86
 City Island,"Bay Terrace, Staten Island",86
 City Island,"Chelsea, Staten Island",86
+City Island,Coney Island,78
 Glendale,Glendale,100
 Glendale,North Riverdale,64
 Glendale,Rosedale,62
 Glendale,Bronxdale,59
 Glendale,Riverdale,59
+Glendale,Glen Oaks,59
 Port Richmond,Port Richmond,100
 Port Richmond,Richmond Hill,72
 Port Richmond,Richmondtown,64
 Port Richmond,Fort Hamilton,62
 Port Richmond,Port Morris,58
+Port Richmond,Concord,55
 Red Hook,Red Hook,100
 Red Hook,Howland Hook,86
 Red Hook,SoHo,57
 Red Hook,NoHo,57
 Red Hook,Brooklyn Heights,55
+Red Hook,Downtown Brooklyn,53
 Richmond Hill,Richmond Hill,100
 Richmond Hill,Port Richmond,72
 Richmond Hill,Clinton Hill,64
 Richmond Hill,Emerson Hill,64
 Richmond Hill,Richmondtown,64
+Richmond Hill,Todt Hill,64
 Queens Village,Queens Village,100
 Queens Village,East Village,77
 Queens Village,West Village,77
 Queens Village,Greenwich Village,71
 Queens Village,Concourse Village,65
+Queens Village,Claremont Village,65
 Bellerose,Bellerose,100
 Bellerose,Melrose,75
 Bellerose,Belle Harbor,67
 Bellerose,Allerton,59
 Bellerose,Roosevelt Island,51
+Bellerose,Chelsea,50
 Maspeth,Maspeth,100
 Maspeth,Prospect Heights,64
 Maspeth,Prospect-Lefferts Gardens,57
 Maspeth,East Harlem,55
 Maspeth,Eastchester,55
+Maspeth,Ditmars Steinway,51
 Shore Acres,Shore Acres,100
 Shore Acres,SoHo,77
 Shore Acres,Kew Gardens,55
 Shore Acres,Springfield Gardens,54
 Shore Acres,Westchester Square,54
+Shore Acres,Park Slope,54
 Williamsbridge,Williamsbridge,100
 Williamsbridge,Williamsburg,85
 Williamsbridge,Bay Ridge,72
 Williamsbridge,Ridgewood,64
 Williamsbridge,Kingsbridge,64
+Williamsbridge,Hollis,60
 Soundview,Soundview,100
 Soundview,SoHo,60
 Soundview,Sunnyside,56
 Soundview,Olinville,56
 Soundview,Mount Eden,53
+Soundview,Spuyten Duyvil,52
 Woodhaven,Woodhaven,100
 Woodhaven,Inwood,72
 Woodhaven,Woodlawn,71
 Woodhaven,Mott Haven,63
 Woodhaven,Woodside,59
+Woodhaven,SoHo,51
 Forest Hills,Forest Hills,100
 Forest Hills,Cypress Hills,72
 Forest Hills,Great Kills,70
 Forest Hills,Grymes Hill,70
 Forest Hills,Todt Hill,67
+Forest Hills,Hollis,65
 Woodrow,Woodrow,100
 Woodrow,Woodlawn,67
 Woodrow,Inwood,62
 Woodrow,Midwood,57
 Woodrow,Norwood,57
+Woodrow,Oakwood,57
 Co-op City,Co-op City,100
 Co-op City,Long Island City,86
 Co-op City,Battery Park City,86
 Co-op City,Clason Point,55
 Co-op City,City Island,54
+Co-op City,Grant City,54
 Stuyvesant Town,Stuyvesant Town,100
 Stuyvesant Town,Bedford-Stuyvesant,76
 Stuyvesant Town,Midtown,65
 Stuyvesant Town,Chinatown,56
 Stuyvesant Town,Van Nest,56
+Stuyvesant Town,Kensington,54
 Parkchester,Parkchester,100
 Parkchester,Baychester,76
 Parkchester,Eastchester,73
 Parkchester,Westchester Square,67
 Parkchester,Chelsea,64
+Parkchester,Park Slope,57
 Middle Village,Middle Village,100
 Middle Village,East Village,70
 Middle Village,West Village,70
 Middle Village,Midwood,65
 Middle Village,Claremont Village,65
+Middle Village,Queens Village,64
 North Riverdale,North Riverdale,100
 North Riverdale,Riverdale,90
 North Riverdale,Rosedale,69
 North Riverdale,Glendale,64
 North Riverdale,Bronxdale,64
+North Riverdale,Harlem,60
 Dyker Heights,Dyker Heights,100
 Dyker Heights,Arden Heights,77
 Dyker Heights,Crown Heights,69
 Dyker Heights,Morris Heights,67
 Dyker Heights,Prospect Heights,66
+Dyker Heights,Morningside Heights,66
 Bronxdale,Bronxdale,100
 Bronxdale,Rosedale,71
 Bronxdale,North Riverdale,64
 Bronxdale,Harlem,60
 Bronxdale,Corona,60
+Bronxdale,Brownsville,60
 Sea Gate,Sea Gate,100
 Sea Gate,Prospect-Lefferts Gardens,56
 Sea Gate,Sheepshead Bay,56
 Sea Gate,Kew Gardens Hills,56
 Sea Gate,Jamaica Estates,56
+Sea Gate,Pelham Gardens,56
 Riverdale,Riverdale,100
 Riverdale,North Riverdale,90
 Riverdale,Rosedale,71
 Riverdale,Arverne,62
 Riverdale,Harlem,60
+Riverdale,Silver Lake,60
 Kew Gardens Hills,Kew Gardens Hills,100
 Kew Gardens Hills,Kew Gardens,90
 Kew Gardens Hills,Marble Hill,65
 Kew Gardens Hills,Grymes Hill,65
 Kew Gardens Hills,Hollis,65
+Kew Gardens Hills,Pelham Gardens,63
 Bay Terrace,Bay Terrace,100
 Bay Terrace,"Bay Terrace, Staten Island",90
 Bay Terrace,Windsor Terrace,74
 Bay Terrace,Bay Ridge,60
 Bay Terrace,Bayswater,60
+Bay Terrace,Prince's Bay,58
 Norwood,Norwood,100
 Norwood,Inwood,77
 Norwood,Oakwood,71
 Norwood,Longwood,67
 Norwood,Ridgewood,62
+Norwood,Briarwood,62
 Claremont Village,Claremont Village,100
 Claremont Village,Tremont,77
 Claremont Village,East Village,70
 Claremont Village,West Village,70
 Claremont Village,Greenwich Village,65
+Claremont Village,Concourse Village,65
 Whitestone,Whitestone,100
 Whitestone,Fieldston,63
 Whitestone,Washington Heights,54
 Whitestone,Westchester Square,54
 Whitestone,Chinatown,53
+Whitestone,Stapleton,53
 Fordham,Fordham,100
 Fordham,Fort Hamilton,64
 Fordham,Fort Greene,54
 Fordham,Forest Hills,54
 Fordham,Fort Wadsworth,54
+Fordham,Bedford-Stuyvesant,51
 University Heights,University Heights,100
 University Heights,Crown Heights,66
 University Heights,Dyker Heights,66
 University Heights,Arden Heights,66
 University Heights,Morningside Heights,65
+University Heights,Prospect Heights,65
 Bayswater,Bayswater,100
 Bayswater,Baychester,74
 Bayswater,"Bay Terrace, Staten Island",68
 Bayswater,Bayside,62
 Bayswater,Battery Park City,60
+Bayswater,Bay Terrace,60
 Navy Yard,Navy Yard,100
 Navy Yard,Bay Ridge,56
 Navy Yard,Pelham Gardens,50
 Navy Yard,Coney Island,48
 Navy Yard,"Bay Terrace, Staten Island",48
+Navy Yard,Battery Park City,46
 Brownsville,Brownsville,100
 Brownsville,Rossville,80
 Brownsville,Olinville,70
 Brownsville,Tompkinsville,67
 Brownsville,Tottenville,64
+Brownsville,West Village,61
 Eltingville,Eltingville,100
 Eltingville,Olinville,80
 Eltingville,New Springville,69
 Eltingville,Tompkinsville,67
 Eltingville,Tottenville,64
+Eltingville,East Village,61
 Fresh Meadows,Fresh Meadows,100
 Fresh Meadows,Gowanus,54
 Fresh Meadows,Midtown,51
 Fresh Meadows,Chelsea,51
 Fresh Meadows,Fordham,51
+Fresh Meadows,Melrose,51
 Mount Hope,Mount Hope,100
 Mount Hope,Mount Eden,70
 Mount Hope,South Slope,67
 Mount Hope,Mott Haven,60
 Mount Hope,SoHo,57
+Mount Hope,NoHo,57
 Clason Point,Clason Point,100
 Clason Point,College Point,64
 Clason Point,Hunts Point,61
 Clason Point,Neponsit,60
 Clason Point,Breezy Point,56
+Clason Point,Clifton,55
 Lighthouse Hill,Lighthouse Hill,100
 Lighthouse Hill,Todt Hill,86
 Lighthouse Hill,Clinton Hill,67
 Lighthouse Hill,Richmond Hill,57
 Lighthouse Hill,Hollis,54
+Lighthouse Hill,Cobble Hill,54
 Springfield Gardens,Springfield Gardens,100
 Springfield Gardens,Kew Gardens,86
 Springfield Gardens,Pelham Gardens,67
 Springfield Gardens,Wakefield,61
 Springfield Gardens,Fieldston,61
+Springfield Gardens,Carroll Gardens,60
 Eastchester,Eastchester,100
 Eastchester,Westchester Square,82
 Eastchester,Baychester,76
 Eastchester,Parkchester,73
 Eastchester,Chelsea,64
+Eastchester,East Elmhurst,58
 Howard Beach,Howard Beach,100
 Howard Beach,Rockaway Beach,69
 Howard Beach,Midland Beach,64
 Howard Beach,Bath Beach,64
 Howard Beach,Brighton Beach,62
+Howard Beach,New Dorp Beach,62
 Belle Harbor,Belle Harbor,100
 Belle Harbor,Bellerose,67
 Belle Harbor,Mariners Harbor,63
 Belle Harbor,Arrochar,55
 Belle Harbor,Belmont,54
+Belle Harbor,Bull's Head,52
 Van Nest,Van Nest,100
 Van Nest,East Village,61
 Van Nest,East New York,61
 Van Nest,Jamaica Estates,57
 Van Nest,Stuyvesant Town,56
+Van Nest,East Flatbush,53
 Morris Park,Morris Park,100
 Morris Park,Battery Park City,86
 Morris Park,Port Morris,78
 Morris Park,Morris Heights,67
 Morris Park,Morrisania,67
+Morris Park,Borough Park,61
 West Brighton,West Brighton,100
 West Brighton,New Brighton,80
 West Brighton,Brighton Beach,72
 West Brighton,Westerleigh,67
 West Brighton,Kensington,61
+West Brighton,West Village,56
 Far Rockaway,Far Rockaway,100
 Far Rockaway,Rockaway Beach,76
 Far Rockaway,Arrochar,68
 Far Rockaway,Randall Manor,46
 Far Rockaway,Rego Park,45
+Far Rockaway,Arverne,45
 South Ozone Park,South Ozone Park,100
 South Ozone Park,Ozone Park,90
 South Ozone Park,Park Slope,86
 South Ozone Park,Rego Park,86
 South Ozone Park,Sunset Park,67
+South Ozone Park,Borough Park,61
 Tremont,Tremont,100
 Tremont,Claremont Village,77
 Tremont,Belmont,71
 Tremont,Greenpoint,59
 Tremont,Flatiron District,57
+Tremont,Mount Eden,56
 Corona,Corona,100
 Corona,Crown Heights,65
 Corona,Concourse Village,60
 Corona,Concourse,60
 Corona,Bronxdale,60
+Corona,Castleton Corners,60
 Great Kills,Great Kills,100
 Great Kills,Forest Hills,70
 Great Kills,Grymes Hill,64
 Great Kills,East Village,61
 Great Kills,Graniteville,61
+Great Kills,Dongan Hills,61
 Jamaica Estates,Jamaica Estates,100
 Jamaica Estates,Jamaica,90
 Jamaica Estates,Jamaica Hills,66
 Jamaica Estates,Van Nest,57
 Jamaica Estates,Sea Gate,56
+Jamaica Estates,"Bay Terrace, Staten Island",54
 Manhattan Beach,Manhattan Beach,100
 Manhattan Beach,Bath Beach,86
 Manhattan Beach,Midland Beach,64
 Manhattan Beach,Brighton Beach,62
 Manhattan Beach,South Beach,59
+Manhattan Beach,Howard Beach,59
 Marble Hill,Marble Hill,100
 Marble Hill,Cobble Hill,73
 Marble Hill,Castle Hill,73
 Marble Hill,Kew Gardens Hills,65
 Marble Hill,Murray Hill,64
+Marble Hill,Boerum Hill,64
 Dongan Hills,Dongan Hills,100
 Dongan Hills,Vinegar Hill,67
 Dongan Hills,Hollis,65
 Dongan Hills,Kew Gardens Hills,62
 Dongan Hills,Great Kills,61
+Dongan Hills,Clinton Hill,58
 Castleton Corners,Castleton Corners,100
 Castleton Corners,Stapleton,70
 Castleton Corners,Allerton,68
 Castleton Corners,Concord,64
 Castleton Corners,Castle Hill,64
+Castleton Corners,Concourse,60
 East Morrisania,East Morrisania,100
 East Morrisania,Morrisania,90
 East Morrisania,Astoria,64
 East Morrisania,Port Morris,62
 East Morrisania,Nolita,60
+East Morrisania,Morris Heights,59
 Hunts Point,Hunts Point,100
 Hunts Point,Clason Point,61
 Hunts Point,College Point,59
 Hunts Point,Breezy Point,59
 Hunts Point,Greenpoint,57
+Hunts Point,Morningside Heights,54
 Neponsit,Neponsit,100
 Neponsit,College Point,60
 Neponsit,Clason Point,60
 Neponsit,Nolita,57
 Neponsit,University Heights,56
+Neponsit,Kensington,56
 Pelham Bay,Pelham Bay,100
 Pelham Bay,"Bay Terrace, Staten Island",86
 Pelham Bay,Pelham Gardens,71
 Pelham Bay,Sheepshead Bay,58
 Pelham Bay,Harlem,57
+Pelham Bay,Kips Bay,56
 Randall Manor,Randall Manor,100
 Randall Manor,Morrisania,58
 Randall Manor,North Riverdale,54
 Randall Manor,Concord,54
 Randall Manor,Norwood,54
+Randall Manor,Glendale,53
 Throgs Neck,Throgs Neck,100
 Throgs Neck,Little Neck,55
 Throgs Neck,Rosebank,53
 Throgs Neck,Melrose,51
 Throgs Neck,Prospect-Lefferts Gardens,50
+Throgs Neck,Tremont,49
 Todt Hill,Todt Hill,100
 Todt Hill,Lighthouse Hill,86
 Todt Hill,Clinton Hill,67
 Todt Hill,Forest Hills,67
 Todt Hill,Richmond Hill,64
+Todt Hill,Kew Gardens Hills,60
 West Farms,West Farms,100
 West Farms,Upper West Side,86
 West Farms,East Harlem,67
 West Farms,East Flatbush,61
 West Farms,Westchester Square,60
+West Farms,East Morrisania,56
 Silver Lake,Silver Lake,100
 Silver Lake,Riverdale,60
 Silver Lake,Middle Village,56
 Silver Lake,Park Slope,54
 Silver Lake,Greenwich Village,53
+Silver Lake,Concourse Village,53
 Morrisania,Morrisania,100
 Morrisania,East Morrisania,90
 Morrisania,Morris Park,67
 Morrisania,Morningside Heights,60
 Morrisania,Nolita,60
+Morrisania,Morris Heights,58
 Laurelton,Laurelton,100
 Laurelton,Claremont Village,64
 Laurelton,Allerton,59
 Laurelton,Stapleton,56
 Laurelton,Fieldston,56
+Laurelton,Flatiron District,53
 Grymes Hill,Grymes Hill,100
 Grymes Hill,Emerson Hill,70
 Grymes Hill,Forest Hills,70
 Grymes Hill,Cypress Hills,67
 Grymes Hill,Kew Gardens Hills,65
+Grymes Hill,Murray Hill,64
 Pelham Gardens,Pelham Gardens,100
 Pelham Gardens,Prospect-Lefferts Gardens,86
 Pelham Gardens,Kew Gardens,74
 Pelham Gardens,Pelham Bay,71
 Pelham Gardens,Springfield Gardens,67
+Pelham Gardens,Carroll Gardens,63
 Belmont,Belmont,100
 Belmont,Tremont,71
 Belmont,Claremont Village,64
 Belmont,Mount Eden,56
 Belmont,Mount Hope,56
+Belmont,Bensonhurst,56
 Rosedale,Rosedale,100
 Rosedale,Bronxdale,71
 Rosedale,Riverdale,71
 Rosedale,North Riverdale,69
 Rosedale,Glendale,62
+Rosedale,Rosebank,62
 Edgemere,Edgemere,100
 Edgemere,Emerson Hill,60
 Edgemere,Melrose,53
 Edgemere,Gramercy,50
 Edgemere,Greenwich Village,49
+Edgemere,Williamsbridge,49
 New Brighton,New Brighton,100
 New Brighton,New Dorp,86
 New Brighton,West Brighton,80
 New Brighton,Brighton Beach,76
 New Brighton,Midtown,55
+New Brighton,Clifton,55
 Midland Beach,Midland Beach,100
 Midland Beach,Manhattan Beach,64
 Midland Beach,Howard Beach,64
 Midland Beach,Bath Beach,63
 Midland Beach,"Bay Terrace, Staten Island",59
+Midland Beach,South Beach,59
 Baychester,Baychester,100
 Baychester,Parkchester,76
 Baychester,Eastchester,76
 Baychester,Bayswater,74
 Baychester,Westchester Square,70
+Baychester,"Bay Terrace, Staten Island",64
 Melrose,Melrose,100
 Melrose,Bellerose,75
 Melrose,Roosevelt Island,60
 Melrose,Emerson Hill,60
 Melrose,Chelsea,57
+Melrose,Prospect Heights,55
 Bergen Beach,Bergen Beach,100
 Bergen Beach,Brighton Beach,77
 Bergen Beach,Gerritsen Beach,74
 Bergen Beach,Bath Beach,64
 Bergen Beach,New Dorp Beach,62
+Bergen Beach,South Beach,59
 Richmondtown,Richmondtown,100
 Richmondtown,Midtown,75
 Richmondtown,Chinatown,67
 Richmondtown,Port Richmond,64
 Richmondtown,Richmond Hill,64
+Richmondtown,Gowanus,54
 Howland Hook,Howland Hook,100
 Howland Hook,Red Hook,86
 Howland Hook,SoHo,60
 Howland Hook,NoHo,60
 Howland Hook,Howard Beach,58
+Howland Hook,Gowanus,55
 Schuylerville,Schuylerville,100
 Schuylerville,Olinville,55
 Schuylerville,Rossville,55
 Schuylerville,Concourse Village,53
 Schuylerville,Claremont Village,53
+Schuylerville,Spuyten Duyvil,52
 Coney Island,Coney Island,100
 Coney Island,"Bay Terrace, Staten Island",86
 Coney Island,"Chelsea, Staten Island",86
 Coney Island,City Island,78
 Coney Island,Long Island City,68
+Coney Island,Roosevelt Island,64
 New Dorp Beach,New Dorp Beach,100
 New Dorp Beach,New Dorp,90
 New Dorp Beach,East New York,63
 New Dorp Beach,Bath Beach,63
 New Dorp Beach,Howard Beach,62
+New Dorp Beach,Bergen Beach,62
 Prince's Bay,Prince's Bay,100
 Prince's Bay,Kips Bay,86
 Prince's Bay,"Bay Terrace, Staten Island",86
 Prince's Bay,Bay Ridge,63
 Prince's Bay,Bay Terrace,58
+Prince's Bay,Pelham Bay,55
 South Beach,South Beach,100
 South Beach,Bath Beach,76
 South Beach,South Slope,64
 South Beach,Howard Beach,61
 South Beach,SoHo,60
+South Beach,Rockaway Beach,59
 Holliswood,Holliswood,100
 Holliswood,Hollis,90
 Holliswood,Inwood,75
 Holliswood,SoHo,68
 Holliswood,NoHo,60
+Holliswood,Midwood,59
 Bath Beach,Bath Beach,100
 Bath Beach,Manhattan Beach,86
 Bath Beach,Gerritsen Beach,86
 Bath Beach,South Beach,76
 Bath Beach,Brighton Beach,67
+Bath Beach,Howard Beach,64
 Jamaica Hills,Jamaica Hills,100
 Jamaica Hills,Jamaica,90
 Jamaica Hills,Jamaica Estates,66
 Jamaica Hills,Hollis,65
 Jamaica Hills,Murray Hill,58
+Jamaica Hills,Marble Hill,58
 Oakwood,Oakwood,100
 Oakwood,Norwood,71
 Oakwood,Longwood,67
 Oakwood,Briarwood,62
 Oakwood,Inwood,62
+Oakwood,Holliswood,59
 Castle Hill,Castle Hill,100
 Castle Hill,Cobble Hill,73
 Castle Hill,Marble Hill,73
 Castle Hill,Castleton Corners,64
 Castle Hill,Clinton Hill,61
+Castle Hill,East Village,61
 Hollis,Hollis,100
 Hollis,Holliswood,90
 Hollis,Cypress Hills,65
 Hollis,Forest Hills,65
 Hollis,Kew Gardens Hills,65
+Hollis,Dongan Hills,65
 Douglaston,Douglaston,100
 Douglaston,Fieldston,53
 Douglaston,Laurelton,53
 Douglaston,DUMBO,51
 Douglaston,Flatiron District,50
+Douglaston,Downtown Brooklyn,50
 Huguenot,Huguenot,100
 Huguenot,Greenpoint,56
 Huguenot,Mott Haven,53
 Huguenot,Hunts Point,53
 Huguenot,NoHo,51
+Huguenot,Hell's Kitchen,49
 Olinville,Olinville,100
 Olinville,Eltingville,80
 Olinville,New Springville,74
 Olinville,Tompkinsville,73
 Olinville,Tottenville,70
+Olinville,Brownsville,70
 Edenwald,Edenwald,100
 Edenwald,Ditmars Steinway,51
 Edenwald,Greenwich Village,51
 Edenwald,North Riverdale,51
 Edenwald,Glendale,50
+Edenwald,Rosedale,50
 Grant City,Grant City,100
 Grant City,Long Island City,86
 Grant City,Battery Park City,86
 Grant City,City Island,63
 Grant City,Great Kills,57
+Grant City,Gramercy,56
 Westerleigh,Westerleigh,100
 Westerleigh,West Brighton,67
 Westerleigh,East Harlem,55
 Westerleigh,Westchester Square,53
 Westerleigh,West Village,52
+Westerleigh,Astoria,51
 "Bay Terrace, Staten Island","Bay Terrace, Staten Island",100
 "Bay Terrace, Staten Island",Bay Terrace,90
 "Bay Terrace, Staten Island",Windsor Terrace,86
 "Bay Terrace, Staten Island",Roosevelt Island,86
 "Bay Terrace, Staten Island",Sheepshead Bay,86
+"Bay Terrace, Staten Island",Long Island City,86
 Westchester Square,Westchester Square,100
 Westchester Square,Eastchester,82
 Westchester Square,Baychester,70
 Westchester Square,Parkchester,67
 Westchester Square,Chelsea,64
+Westchester Square,Harlem,60
 Little Neck,Little Neck,100
 Little Neck,Little Italy,67
 Little Neck,Nolita,60
 Little Neck,Throgs Neck,55
 Little Neck,Clifton,54
+Little Neck,Whitestone,48
 Fort Wadsworth,Fort Wadsworth,100
 Fort Wadsworth,Fordham,54
 Fort Wadsworth,Fort Hamilton,52
 Fort Wadsworth,Astoria,51
 Fort Wadsworth,Norwood,51
+Fort Wadsworth,Fort Greene,51
 Rosebank,Rosebank,100
 Rosebank,Rosedale,62
 Rosebank,Roosevelt Island,55
 Rosebank,Melrose,53
 Rosebank,Throgs Neck,53
+Rosebank,Prospect Heights,51
 Unionport,Unionport,100
 Unionport,North Riverdale,55
 Unionport,Windsor Terrace,50
 Unionport,Bensonhurst,50
 Unionport,Concord,50
+Unionport,University Heights,50
 Mill Basin,Mill Basin,100
 Mill Basin,Castle Hill,54
 Mill Basin,Midland Beach,52
 Mill Basin,Clinton Hill,52
 Mill Basin,East Village,52
+Mill Basin,Emerson Hill,52
 Arden Heights,Arden Heights,100
 Arden Heights,Crown Heights,77
 Arden Heights,Dyker Heights,77
 Arden Heights,Jackson Heights,71
 Arden Heights,Cambria Heights,71
+Arden Heights,Prospect Heights,69
 Bull's Head,Bull's Head,100
 Bull's Head,Hell's Kitchen,56
 Bull's Head,Belle Harbor,52
 Bull's Head,Chelsea,51
 Bull's Head,Bellerose,50
+Bull's Head,Flatlands,48
 New Dorp,New Dorp,100
 New Dorp,New Dorp Beach,90
 New Dorp,East New York,86
 New Dorp,New Springville,86
 New Dorp,New Brighton,86
+New Dorp,Bedford-Stuyvesant,51
 Rossville,Rossville,100
 Rossville,Brownsville,80
 Rossville,Olinville,67
 Rossville,New Springville,64
 Rossville,Tompkinsville,64
+Rossville,Concourse Village,60
 Breezy Point,Breezy Point,100
 Breezy Point,Greenpoint,73
 Breezy Point,College Point,64
 Breezy Point,Hunts Point,59
 Breezy Point,Clason Point,56
+Breezy Point,Neponsit,55
 Willowbrook,Willowbrook,100
 Willowbrook,Downtown Brooklyn,57
 Willowbrook,Longwood,53
 Willowbrook,Williamsburg,52
 Willowbrook,SoHo,51
+Willowbrook,NoHo,51
 Glen Oaks,Glen Oaks,100
 Glen Oaks,Glendale,59
 Glen Oaks,Hell's Kitchen,53
 Glen Oaks,Lower East Side,50
 Glen Oaks,Gowanus,50
+Glen Oaks,Great Kills,50
 Gerritsen Beach,Gerritsen Beach,100
 Gerritsen Beach,Bath Beach,86
 Gerritsen Beach,Bergen Beach,74
 Gerritsen Beach,Brighton Beach,69
 Gerritsen Beach,South Beach,59
+Gerritsen Beach,Midland Beach,57
 "Chelsea, Staten Island","Chelsea, Staten Island",100
 "Chelsea, Staten Island",Chelsea,90
 "Chelsea, Staten Island",City Island,86
 "Chelsea, Staten Island",Coney Island,86
 "Chelsea, Staten Island","Bay Terrace, Staten Island",73
+"Chelsea, Staten Island",St. Albans,57
