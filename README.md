@@ -13,3 +13,5 @@ Sources:
 
 
 The line plot in the Comparison between construction year and average price shows that as the year progresses there is a noticeable downward trend in prices. It shows a decline overall in property prices. But in 2022 there is a prdiction of possible incline in property prices in the future.
+
+
